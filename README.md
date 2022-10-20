@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marina Celeste Chávez 
 - 👀 I’m interested in learn to program. 
-- 🌱 I’m currently learning to be full stack web developer junior in Argentina Programa 
+- 🌱 I’m currently learning to be full stack developer junior in  @maxiprograma
 - 📫 How to reach me in Instagram @marinachavez_ 
 
 <!---
