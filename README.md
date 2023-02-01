@@ -1,7 +1,6 @@
 # About me
 
-My name is Marina. I am from Argentina. Actually, I am student developer with C# and .NET. In febrary 2023, I started university (UTN) to be programming technique.
-I love learning and find a new issues to study. This world is new for me, but little a little I start a new techologies to lern. The courses about .NET, C# and POO was very interesting. I will continue perfecting myself in the backend area and I should study more English 😅
+My name is Marina. I am from Argentina. At the moment, I am studying development with C# and .NET. In febrary 2023, I started university (UTN) to be programming technique. I love learning and finding new topics to study. This world is new for me, but little by little I'm starting new techologies to learn. The courses about .NET, C#, SQL and POO were very interesting. I will continue perfecting myself in the backend area and I should study more English. 😅
 
 # Keep in touch
 
